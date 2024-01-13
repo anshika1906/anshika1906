@@ -22,9 +22,9 @@
     </p>
     <h3>Skills:</h3>
     <p>
-    -**Technical**: SQL, C++, HTML, CSS, Python, Data Analysis, Data Visualization <br>
-    -**Software & Tools**: Tableau, MS Excel, MS Powerpoint<br>
-    -**Interpersonal**: Problem Solving, Decision Making, Effective Communication, Critical thinking, Documentation
+    -<b>Technical</b>: SQL, C++, HTML, CSS, Python, Data Analysis, Data Visualization <br>
+    -<b>Software & Tools</b>: Tableau, MS Excel, MS Powerpoint<br>
+    -<b>Interpersonal</b>: Problem Solving, Decision Making, Effective Communication, Critical thinking, Documentation
 
     </p>
  
