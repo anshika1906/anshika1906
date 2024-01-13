@@ -5,7 +5,7 @@
 <p>
     <h3>About me:</h3>
  <ul> 
-        <h4>-🔭 Currently studying "Computer Science and Engineering" </h4>
+        <h4>-🔭 Currently Enrolled in Bachelor of Engineering in Computer Science at Chandigarh University </h4>
         <h4>-😄 Pronoun: She/Her</h4>
         <h4>-🌱 Data Analyst/Analytics Enthusiast</h4>
         <h4>-📫 Reach me at @anshika19062002@gmail.com</h4>
