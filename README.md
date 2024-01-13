@@ -8,7 +8,7 @@
         <h4>-🔭 Currently Enrolled in Bachelor of Engineering in Computer Science at Chandigarh University </h4>
         <h4>-😄 Pronoun: She/Her</h4>
         <h4>-🌱 Data Analyst/Analytics Enthusiast</h4>
-        <h4>-📫 Reach me at @anshika19062002@gmail.com</h4>
+        
 </ul> 
 </p>
     <h3>Connect with me:</h3>
@@ -22,6 +22,9 @@
     </p>
     <h3>Skills:</h3>
     <p>
-        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alter="c" width="40"> &nbsp <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alter="c++" width="40">&nbsp<img src="https://img.icons8.com/color/48/000000/html-5.png" alter="html" width="40" >&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40">&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alter="java" width="40" >&nbsp<img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png"alter="js" width="80" >
+    -Technical: SQL, C++, HTML, CSS, Python, Data Analysis, Data Visualization
+    -Software & Tools: Tableau, MS Excel, MS Powerpoint
+    -Interpersonal: Problem Solving, Decision Making, Effective Communication, Critical thinking, Documentation
+
     </p>
  
