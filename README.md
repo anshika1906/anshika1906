@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! I am Anshika Jain👋</h1>
 
-<p> <img src="https://komarev.com/ghpvc/?username=DISHA-TRIVEDI&label=Profile%20views&color=52bc56&style=plastic" alter="Anshika Jain"/></p>
+/*<p> <img src="https://komarev.com/ghpvc/?username=DISHA-TRIVEDI&label=Profile%20views&color=52bc56&style=plastic" alter="Anshika Jain"/></p>*/
 <p>
     <h3>About me:</h3>
  <ul> 
